@@ -90,7 +90,7 @@ a:hover{
 #cancel:hover{
 	color: hsl(223, 47%, 23%);
 }
-#footnote{
+.attribution{
 	float: left;}
 @media screen and (max-width: 575px){
 body{
@@ -102,7 +102,7 @@ body{
 	}
 #top-image{width:340px;
 	}
-#footnote{
+.attribution{
 		float:none;
 	}
 }
